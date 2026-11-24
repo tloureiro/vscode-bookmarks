@@ -1,0 +1,15 @@
+.codex/**
+.git/**
+.gitignore
+.vscode/**
+.vscode-test/**
+src/**
+test/**
+out/test/**
+**/*.map
+node_modules/**
+tsconfig.json
+package-lock.json
+install.sh
+test.sh
+*.vsix

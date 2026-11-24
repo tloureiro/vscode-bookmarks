@@ -1,0 +1,9 @@
+node_modules/
+out/
+*.vsix
+.vscode-test/
+.DS_Store
+
+# Local agent state and bookmarks created while testing this project.
+/.codex/
+/.vscode/file-bookmarks.json
